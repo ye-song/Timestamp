@@ -3,7 +3,7 @@ Timestamp Microservice
 
 This project is done using Node, Express and Javascript.<br/>
 It accepts a date in the URL with the following formats: <br/>
-&ensp;&ensp;<li>yyyy-mm-dd</li>
+&nbsp;&nbsp;<li>yyyy-mm-dd</li>
 &ensp;&ensp;<li>dd month yyyy</li>
 &ensp;&ensp;<li>unix time: 1451001600000</li><br/>
 It responds to the request with the following format: <br/>
